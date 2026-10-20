@@ -1,0 +1,30 @@
+threads:
+  - id: seed-getting-started-t1
+    blockId: bf296a500
+    resolved: false
+    comments:
+      - id: seed-getting-started-c1
+        author:
+          login: mock-user
+          name: Mock User
+          avatarUrl: https://avatars.githubusercontent.com/u/583231
+        body: Do we need to bump the Node version here now that we're on 20?
+        createdAt: '2026-07-08T16:30:00.000Z'
+  - id: seed-getting-started-t2
+    blockId: b4a2f55ed
+    resolved: true
+    comments:
+      - id: seed-getting-started-c2
+        author:
+          login: ada-reviewer
+          name: Ada Reviewer
+          avatarUrl: https://avatars.githubusercontent.com/u/1024025
+        body: Worth adding a note about pnpm here?
+        createdAt: '2026-06-15T11:00:00.000Z'
+      - id: seed-getting-started-c3
+        author:
+          login: mock-user
+          name: Mock User
+          avatarUrl: https://avatars.githubusercontent.com/u/583231
+        body: Added — see the latest revision.
+        createdAt: '2026-06-15T13:45:00.000Z'

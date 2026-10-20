@@ -1,0 +1,122 @@
+threads:
+  - id: seed-showcase-t1
+    blockId: bc719643e
+    resolved: false
+    comments:
+      - id: seed-showcase-c1
+        author:
+          login: mock-user
+          name: Mock User
+          avatarUrl: https://avatars.githubusercontent.com/u/583231
+        body: >-
+          This paragraph is doing a lot of work — should we split the link and strikethrough
+          examples onto their own line for clarity?
+        createdAt: '2026-07-11T10:00:00.000Z'
+  - id: seed-showcase-t2
+    blockId: be0727bdb
+    resolved: true
+    comments:
+      - id: seed-showcase-c2
+        author:
+          login: ada-reviewer
+          name: Ada Reviewer
+          avatarUrl: https://avatars.githubusercontent.com/u/1024025
+        body: Should `size` spell out all three enum values instead of the type union?
+        createdAt: '2026-07-15T09:20:00.000Z'
+      - id: seed-showcase-c3
+        author:
+          login: mock-user
+          name: Mock User
+          avatarUrl: https://avatars.githubusercontent.com/u/583231
+        body: Good call — updated the row to spell out sm/md/lg.
+        createdAt: '2026-07-15T09:45:00.000Z'
+  - id: seed-showcase-t3
+    blockId: b6b4bc7a5
+    resolved: false
+    comments:
+      - id: seed-showcase-c4
+        author:
+          login: ada-reviewer
+          name: Ada Reviewer
+          avatarUrl: https://avatars.githubusercontent.com/u/1024025
+        body: >-
+          This phrase is doing double duty as both the demo text and its own description — a little
+          meta, but it works.
+        createdAt: '2026-07-16T14:10:00.000Z'
+    anchor:
+      start: 36
+      end: 53
+      quote: inline formatting
+  - id: seed-showcase-t4
+    blockId: b20bfd2e3
+    resolved: true
+    comments:
+      - id: seed-showcase-c5
+        author:
+          login: mock-user
+          name: Mock User
+          avatarUrl: https://avatars.githubusercontent.com/u/583231
+        body: >-
+          Typo check — should this say 'supplementary' instead? Both are real words but want
+          consistency.
+        createdAt: '2026-07-17T11:00:00.000Z'
+      - id: seed-showcase-c6
+        author:
+          login: ada-reviewer
+          name: Ada Reviewer
+          avatarUrl: https://avatars.githubusercontent.com/u/1024025
+        body: Confirmed 'supplemental' matches our style guide — leaving as-is.
+        createdAt: '2026-07-17T11:20:00.000Z'
+    anchor:
+      start: 14
+      end: 38
+      quote: supplemental information
+  - id: seed-showcase-t5
+    blockId: bd3fbe801
+    resolved: false
+    comments:
+      - id: seed-showcase-c7
+        author:
+          login: mock-user
+          name: Mock User
+          avatarUrl: https://avatars.githubusercontent.com/u/583231
+        body: Should we show something more realistic than `greet`, maybe with generics?
+        createdAt: '2026-07-18T09:00:00.000Z'
+      - id: seed-showcase-c8
+        author:
+          login: ada-reviewer
+          name: Ada Reviewer
+          avatarUrl: https://avatars.githubusercontent.com/u/1024025
+        body: I'd keep it simple — this is showcasing syntax highlighting, not TS features.
+        createdAt: '2026-07-18T09:30:00.000Z'
+      - id: seed-showcase-c9
+        author:
+          login: mock-user
+          name: Mock User
+          avatarUrl: https://avatars.githubusercontent.com/u/583231
+        body: Fair, leaving as-is.
+        createdAt: '2026-07-18T09:40:00.000Z'
+  - id: seed-showcase-t6
+    blockId: bfc675861
+    resolved: false
+    comments:
+      - id: seed-showcase-c10
+        author:
+          login: ada-reviewer
+          name: Ada Reviewer
+          avatarUrl: https://avatars.githubusercontent.com/u/1024025
+        body: Worth mentioning in the summary that toggles support nested markdown, not just plain text?
+        createdAt: '2026-07-19T15:00:00.000Z'
+  - id: seed-showcase-t7
+    blockId: seed-showcase-orphaned-block-id
+    resolved: false
+    comments:
+      - id: seed-showcase-c11
+        author:
+          login: mock-user
+          name: Mock User
+          avatarUrl: https://avatars.githubusercontent.com/u/583231
+        body: >-
+          Left a note on the diagram block, but it looks like that got removed in a later edit —
+          following up separately.
+        createdAt: '2026-07-12T08:30:00.000Z'

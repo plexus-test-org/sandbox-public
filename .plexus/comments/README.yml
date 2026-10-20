@@ -1,0 +1,30 @@
+threads:
+  - id: seed-readme-t1
+    blockId: b4cd6fa41
+    resolved: false
+    comments:
+      - id: seed-readme-c1
+        author:
+          login: mock-user
+          name: Mock User
+          avatarUrl: https://avatars.githubusercontent.com/u/583231
+        body: Should we link the API reference here too, or keep this section docs-only?
+        createdAt: '2026-07-01T09:00:00.000Z'
+      - id: seed-readme-c2
+        author:
+          login: ada-reviewer
+          name: Ada Reviewer
+          avatarUrl: https://avatars.githubusercontent.com/u/1024025
+        body: Let's keep it docs-only for now — the API reference lives in its own repo.
+        createdAt: '2026-07-01T10:15:00.000Z'
+  - id: seed-readme-t2
+    blockId: b14f731ec
+    resolved: true
+    comments:
+      - id: seed-readme-c3
+        author:
+          login: ada-reviewer
+          name: Ada Reviewer
+          avatarUrl: https://avatars.githubusercontent.com/u/1024025
+        body: Fixed the broken link to the roadmap doc in the last pass.
+        createdAt: '2026-06-20T14:00:00.000Z'
