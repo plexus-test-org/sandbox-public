@@ -1,6 +1,6 @@
 # Installation
 
-Detailed installation steps.
+Detailed installation steps. RC K1 room edit X.
 
 1. Clone the repository
 2. Install dependencies with `npm install`
