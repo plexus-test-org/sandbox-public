@@ -1,12 +1,1 @@
-threads:
-  - id: af0426bd60
-    blockId: bd079372c
-    resolved: false
-    comments:
-      - id: 26ae2bf0ea
-        author:
-          login: plexus-test-owner
-          name: plexus-test-owner
-          avatarUrl: https://avatars.githubusercontent.com/u/343742229?v=4
-        body: P6 delete arm test
-        createdAt: '2026-10-25T04:48:41.689Z'
+threads: []
