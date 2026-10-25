@@ -8,4 +8,4 @@ Detailed installation steps.
 4. Run `npm run dev` to start the development server
 
 Once installed, see [Configuration](./configuration.md) and the
-[Getting Started](./getting-started.md) guide.
+[Getting Started](./getting-started.md) guide. RC K1 teammate Y.
