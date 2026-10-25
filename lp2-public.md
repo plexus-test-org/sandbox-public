@@ -9,3 +9,5 @@ title: lp2-public
 ## Usage
 
 ## Reference
+
+P6 J6: see [[#Overview]], [[Getting Started|the guide]] and [[Other note]].
