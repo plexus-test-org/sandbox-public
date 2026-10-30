@@ -10,4 +10,4 @@ title: lp2-public
 
 ## Reference
 
-P6 J6: see [[#Overview]], [[Getting Started|the guide]] and [[Other note]].
+P6 J6: see [[#Overview]], [[Getting Started|the guide]] and [[Other note]]. Pass 7 B7 review test.
